@@ -7,3 +7,7 @@
 * Useful section of trailing repo [here](https://github.com/mozilla/application-services/tree/72b827c3e0f883163762857fd766df1aeb060725/components/support) 
 * Their ultimately orz book :pray: : https://mozilla.github.io/application-services/book 
 * An old impl by 'em: https://mozilla.github.io/firefox-browser-architecture/experiments/2017-09-21-rust-on-android.html
+---
+### Others
+* Some other blogpost on similar impl: https://blog.svgames.pl/article/running-rust-on-android
+* https://dushistov.github.io/flapigen-rs/java-android-example.html
